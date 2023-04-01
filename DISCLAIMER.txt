@@ -1,0 +1,14 @@
+# Disclaimer
+
+## The data is unverified
+
+The data presented in this dataset were generated from a survey sent out to UKRI DRI
+facility managers in 2022. The responses have not been verified so users of the data 
+should check the values and figures before publishing any analyses based on this dataset.
+
+## Exclusion of liability
+
+The general CEDA Disclaimer applies in terms of liability:
+
+https://help.ceda.ac.uk/article/4642-disclaimer
+
