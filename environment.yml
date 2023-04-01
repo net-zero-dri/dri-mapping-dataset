@@ -1,0 +1,16 @@
+name: dri_mapping
+channels:
+ - conda-forge
+ - defaults
+dependencies:
+ - python==3.9
+ - jupyter
+ - notebook
+ - numpy
+ - pandas
+ - bokeh
+ - matplotlib
+# The following would only be used for annotating a correlation matrix
+# (not included in the notebook as a running example)
+# - seaborn
+ 

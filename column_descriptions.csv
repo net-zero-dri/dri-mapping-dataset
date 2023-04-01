@@ -1,0 +1,41 @@
+Column name,Descriptive name,Original survey question
+record_no,Record number,Not applicable
+tier_cat,Tier Category,"1.8 Based on the EPSRC ""Tier"" categorisation of facilities, how would you describe your facility?"
+region,UK Region,"1.9   Location (e.g. town, city or county)"
+main_rcs,Research Council funding,2.1.a   Which are the main Research Councils (or other bodies) that fund your facility?
+ukri_pc,UKRI stake in the facility (as %),2.2 Do you know the percentage UKRI stake in the facility? Please state if known. (This would be 100% for all UKRI-owned or UKRI fully-funded facilities).  
+n_users,Number of users,2.3 Do you know how many individual users your facility has per year? Please state if known.
+purpose,Broad purpose,3.1.a Does your facility support general-purpose usage or a specific scientific focus? 
+primary_func_facility,Primary function of facility,3.3.a   How would you describe your facility in terms of its primary function?
+main_physical_comp,Main physical infrastructure,3.4.a   What is the predominant component of physical infrastructure in your facility?
+cool_sys,Cooling system type,4.1.a   What type of cooling system do you use? 
+heat_reuse,Does cooling re-use warm air to heat other buildings?,4.2  Does the cooling system re-use warm air to heat other buildings?
+n_cpus,Number of CPUs,"4.3a  What is the total number of processing cores, or GPUs (if the main type), in your facility? [Interpreted as CPUs]"
+n_gpus,Number of GPUs,"4.3b  What is the total number of processing cores, or GPUs (if the main type), in your facility? [Interpreted as GPUs]"
+n_server,Number of servers,"4.4  What is the total number of physical servers in your facility? (By ""server"", we typically mean each unit in a rack)."
+storage,Storage capacity (PBs),4.5  What is the current total storage capacity of your facility in Petabytes (across all media)?
+nrg_supply_ctrl,Have control over choice of energy supply?,5.1  Do you have any direct control over the choice of energy supply for your facility?
+nrg_supply_mix,What proportion of energy comes from renewable sources?,"5.2  Do you know the mix of renewable and non-renewable sources in your energy supply? If so, what percentage of your electricity is purchased on a green (renewable) tariff?"
+nrg_supply_purch,Electricity purchased by,5.3  Who purchases electricity on behalf of the facility? 
+nrg_supply_pol,Energy supplier has policy on low-carbon provision?,5.4  Does your energy supplier have a policy on the provision of low-carbon energy? Please provide details.
+on_site_nrg,On-site generation/storage of energy?,"5.5  Do you make use of on-site generation/storage of energy? (Not including any research on energy storage that might be conducted). If so, please provide details."
+nrg_monitor_tool,Energy monitoring tools,6.1 What energy monitoring tools do you have at your disposal?
+nrg_use_mwh_yr,Energy usage (MWh/yr),6.2  Please provide an estimate of your annual energy consumption in kWh.
+nrg_use_max_mwh_yr,Max Theoretical Energy usage (MWh/yr),"6.3 If your estimate of annual energy consumption is significantly different from the maximum annual energy draw, please also provide the latter. "
+nrg_ghg_scopes,Proportions of GHG Emission Scopes,"6.5  Do you know what proportion of the energy usage of the facility sits within each of the GHG emission scopes (1, 2 and 3)? Please provide details."
+variation_nrg_use,Can exploit energy consumption variation over time?,6.6  Are you able to take advantage of the variation in energy consumption over time (days or weeks)? Please give details.
+load_management,Can manage the load to exploit low-carbon energy supply?,6.7  Can the system load be managed to maximise the use of low-carbon energy supply?
+suggested_nrg_metric,Efficiency metrics used,"6.8  Do you record/provide any efficiency metrics for your energy usage? If so, please provide details."
+pue,Power Usage Effectiveness [near 1 is best],"6.9  Do you calculate the Power Usage Effectiveness (PUE) for your facility? If so, what is the estimated annual value?"
+effic_metrics,Opinion of PUE as efficiency metric?,"6.10 Do you consider that Power Usage Effectiveness (PUE) is the most suitable measure of efficiency? Please share your thoughts and ideas. Please also tell us about any other metrics that you use - if possible, use terminology from Table 1 of Reddy et al"
+detailed_nrg_cons_comp,Proportions of energy consumed by each system component,"6.11  Do you have knowledge about the proportions of energy consumption related to each component (e.g. storage, compute, networking, cooling etc.)? If so, please provide details, including whether the consumption is measured or based on information provi"
+planned_environ_consid,Is the environmental impact considered in planning/design of new facilities?,"7.2  Do you take environmental considerations into account when planning and designing a new facility? If so, please provide details."
+purchase_environ_consid,Does environmental impact affect purchasing policy?,"7.3  Does your purchasing policy take into account environmental considerations? If so, please provide details."
+disposal_environ_consid,Does environmental impact affect disposal policy?,"7.4  Does your disposal policy take into account environmental considerations? If so, please provide details."
+usr_knowledge,Do you require minimum knowledge level of users?,"8.1  Do you require users to meet a minimum knowledge level before using your facility? Please provide details, including whether knowledge of environmental factors is included."
+budget_training,Budget for training related to environmental impact?,"8.2  Do you have a budget allocated to user training relating to environmental issues, energy usage and efficiency? If so, how much (in total and per user)?"
+training_impact,Does training affect user behaviour?,"8.3  Do you think the training has a noticeable impact on user behaviour? If so, in what way? Please provide details."
+usr_nrg_ftprt,"Do you have info on user energy footprints, and do you provide it to users?","8.4  Do you have information on users' energy footprints? If so, do you provide that information to your users? Please provide details."
+imag_user_supp,"With unlimited budget, how would you optimise efficiency?","8.5  If you had an unlimited budget, what would you do to help users optimise the use of your facility in terms of energy efficiency? Please provide details."
+train_needs,Training needs of your team?,9.2  What are the training needs for you and your team in terms of making progress towards Net Zero? Please provide details.
+need_std_cert,"Need for standards, policies, certification to support Net Zero?","9.3  Do you think there is a need for standards, policies and/or certification to make progress towards Net Zero? Please provide details."
