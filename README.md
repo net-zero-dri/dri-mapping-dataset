@@ -4,11 +4,11 @@ This dataset was generated as an output for the DRI Mapping exercise carried out
 the UKRI Net Zero Digital Research Infrastructure (DRI) Scoping Project undertaken from
 2021-2023. The final report of this work is available from:
 
-https://doi.org/10.5281/zenodo.****TO_BE_ADDED*****
+ https://doi.org/10.5281/zenodo.7805987
 
 This dataset, and its accompanying code and metadata files are available from:
 
-https://doi.org/10.5281/zenodo.7784877 
+ https://doi.org/10.5281/zenodo.7784877 
 
 Or on GitHub at:
 
